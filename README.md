@@ -7,7 +7,7 @@ including a testbench to verify its logic.
 - `and_gate.v` — AND gate module
 - `tb_and_gate.v` — Testbench for the AND gate
 
-## Learning Goals (Day 1)
+## Learning Goals
 - Understand Verilog modules
 - Use inputs, outputs, wires
 - Learn basic continuous assignment
